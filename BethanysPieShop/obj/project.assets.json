@@ -4230,11 +4230,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Windows 10\\Desktop\\C#\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
+      "projectUniqueName": "C:\\Users\\Windows 10\\Desktop\\C#\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
       "projectName": "BethanysPieShop",
-      "projectPath": "C:\\Users\\Windows 10\\Desktop\\C#\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
+      "projectPath": "C:\\Users\\Windows 10\\Desktop\\C#\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
       "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Windows 10\\Desktop\\C#\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop\\obj\\",
+      "outputPath": "C:\\Users\\Windows 10\\Desktop\\C#\\BethanysPieShop\\BethanysPieShop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Windows 10\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4297,7 +4297,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
