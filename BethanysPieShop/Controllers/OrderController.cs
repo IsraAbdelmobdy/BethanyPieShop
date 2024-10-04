@@ -19,7 +19,7 @@ namespace BethanysPieShop.Controllers
         }
 
         [HttpPost]
-        public IActionResult CheckOut(Order order) //get (by default)
+        public IActionResult CheckOut(Order order) 
         {
             var items = _shoppingCart.GetShoppingCartItems();
             _shoppingCart.ShoppingCartItems = items;
